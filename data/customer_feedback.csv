@@ -1,0 +1,13 @@
+date,account,segment,severity,theme,feedback,source
+2026-06-01,Globex,Enterprise,High,Reporting,Data export times out after 5 minutes.,Support Ticket
+2026-06-02,Acme Corp,Mid-Market,Low,UI/UX,The new navigation bar is slightly confusing.,In-App Survey
+2026-06-03,Initech,SMB,Medium,Billing,Invoice doesn't reflect the recent prorated credit.,Email
+2026-06-04,Soylent,Enterprise,High,Integration,Salesforce sync is failing for custom objects.,Support Ticket
+2026-06-05,Massive Dynamic,Enterprise,Low,Feature Request,Would love a dark mode option.,Community Forum
+2026-06-06,Umbrella Corp,Mid-Market,Medium,Performance,Dashboard loads slowly during peak hours.,Support Ticket
+2026-06-07,Globex,Enterprise,Medium,Reporting,Charts are not rendering properly in Safari.,Email
+2026-06-08,Stark Industries,Enterprise,High,Security,Need to configure custom SAML expiration times.,Support Ticket
+2026-06-09,Initech,SMB,Low,Onboarding,Setup wizard was very helpful.,In-App Survey
+2026-06-10,Acme Corp,Mid-Market,High,Core App,Frequent crashes when trying to upload large PDFs.,Support Ticket
+2026-06-11,Wayne Enterprises,Enterprise,Medium,Integration,API rate limits are too restrictive.,Developer Portal
+2026-06-12,Soylent,Enterprise,Medium,UI/UX,Mobile app lacks full administrative features.,App Store Review
